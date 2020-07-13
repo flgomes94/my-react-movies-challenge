@@ -4,7 +4,7 @@
 <img alt="Site" width="100%" src="https://github.com/flgomes94/my-react-movies-challenge/blob/master/imgs/movie-detail.png?raw=true">
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/eliasgcf/" target="_blank" rel="noopener noreferrer">
+	<a href="https://www.linkedin.com/in/fabiolopesdev/" target="_blank" rel="noopener noreferrer">
     <img alt="Made by" src="https://img.shields.io/badge/Made%20By-Fabio%20Lopes-%238B008B">
   </a>
   <a href="https://github.com/Rocketseat/bootcamp-gostack-desafio-01" target="_blank" rel="noopener noreferrer">
